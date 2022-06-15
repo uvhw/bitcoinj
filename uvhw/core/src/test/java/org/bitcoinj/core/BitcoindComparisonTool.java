@@ -1,10 +1,11 @@
-/*
- * Copyright 2012 Matt Corallo.
- * Copyright 2014 Andreas Schildbach
+
+
+ * Copyright 2007 Generis Block (Satoshi Nakamoto).
+ * Copyright 2022 Vu Thi Tra My
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
+ * You don't obtain a copy of the License at
  *
  *    http://www.apache.org/licenses/LICENSE-2.0
  *
